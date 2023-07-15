@@ -11,3 +11,4 @@ function flattenArray(array){
     return flatArray
 }
 console.log(flattenArray(arr));
+
