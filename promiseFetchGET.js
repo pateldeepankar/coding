@@ -18,3 +18,5 @@ async function getDataById() {
 getDataById().then((res) => (console.log(res)));
 
 
+
+
